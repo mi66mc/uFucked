@@ -1,6 +1,5 @@
-<h1 align="center">uFucked</h1>
-
-___
+<img align="left" width="80" height="80" src="uFucked.png" alt="Logo">
+<h1>uFucked</h1>
 
 ## How it works
 
